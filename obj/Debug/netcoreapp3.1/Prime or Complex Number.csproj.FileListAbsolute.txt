@@ -1,0 +1,14 @@
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Prime or Complex Number\obj\Debug\netcoreapp3.1\Prime or Complex Number.csproj.AssemblyReference.cache
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Prime or Complex Number\obj\Debug\netcoreapp3.1\Prime or Complex Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Prime or Complex Number\obj\Debug\netcoreapp3.1\Prime or Complex Number.AssemblyInfoInputs.cache
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Prime or Complex Number\obj\Debug\netcoreapp3.1\Prime or Complex Number.AssemblyInfo.cs
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Prime or Complex Number\obj\Debug\netcoreapp3.1\Prime or Complex Number.csproj.CoreCompileInputs.cache
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Prime or Complex Number\bin\Debug\netcoreapp3.1\Prime or Complex Number.exe
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Prime or Complex Number\bin\Debug\netcoreapp3.1\Prime or Complex Number.deps.json
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Prime or Complex Number\bin\Debug\netcoreapp3.1\Prime or Complex Number.runtimeconfig.json
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Prime or Complex Number\bin\Debug\netcoreapp3.1\Prime or Complex Number.runtimeconfig.dev.json
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Prime or Complex Number\bin\Debug\netcoreapp3.1\Prime or Complex Number.dll
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Prime or Complex Number\bin\Debug\netcoreapp3.1\Prime or Complex Number.pdb
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Prime or Complex Number\obj\Debug\netcoreapp3.1\Prime or Complex Number.dll
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Prime or Complex Number\obj\Debug\netcoreapp3.1\Prime or Complex Number.pdb
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Prime or Complex Number\obj\Debug\netcoreapp3.1\Prime or Complex Number.genruntimeconfig.cache
